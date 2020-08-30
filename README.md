@@ -1,5 +1,7 @@
 # Introducción a C++
-Bienvenid@s a esta 
+Bienvenid@s a esta nueva aventura con el lenguaje C++. Para iniciar, estaremos disfrutando de algo chulo.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTgzMDQ5NV19
+eyJoaXN0b3J5IjpbMjExMDg0OTAzM119
 -->
