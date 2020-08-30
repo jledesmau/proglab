@@ -1,6 +1,11 @@
 # Introducción a C++
 Bienvenid@s a esta nueva aventura con el lenguaje C++. Para iniciar, estaremos disfrutando de algo chulo.
 
+
+    
+
+ - Bullet list
+
 {% next %}
 
 {% spoiler %}
@@ -16,9 +21,14 @@ You're really not going to like it.
 
 {% spoiler "Solution" %}
 Forty-two.
+
+    Esto es un pedazo de código
+        Ahora con indentado
+
 {% endspoiler %}
 
 {% video https://www.youtube.com/watch?v=oHg5SJYRHA0 %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDc0NzM3LDIxMTA4NDkwMzNdfQ==
+eyJoaXN0b3J5IjpbMTQ4MjE3NjMyLC03MDA3NDczNywyMTEwOD
+Q5MDMzXX0=
 -->
